@@ -1,8 +1,4 @@
 ez egy sor
 második sor
-<<<<<<< HEAD
-harmadik sor (master)
-negyedik sor
-=======
 harmadik sor (Elliot)
->>>>>>> bugfix
+negyedik sor (master)
